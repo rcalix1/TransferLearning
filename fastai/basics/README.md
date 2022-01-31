@@ -1,2 +1,1 @@
-## basics of fastai
-
+## Basic intro to fastai
