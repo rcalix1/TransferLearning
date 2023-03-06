@@ -4,4 +4,4 @@
 
 ## Image blurring to understand convolutions
 
-["leena"](leena.png)
+["Lenna"](Lenna.png)
