@@ -1,3 +1,7 @@
 ## Deep Learning algorithms
 
-* CNNs
+* CNNs 
+
+## Image blurring to understand convolutions
+
+["leena"](leena.png)
