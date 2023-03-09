@@ -2,7 +2,7 @@
 
 * CNNs 
 
-## Filters to understand convolutions
+## Image Processing to understand convolutions
 
 !["Lenna"](Lenna.png)
 
