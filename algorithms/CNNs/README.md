@@ -2,6 +2,11 @@
 
 * CNNs 
 
-## Image blurring to understand convolutions
+## Filters to understand convolutions
 
 !["Lenna"](Lenna.png)
+
+## Filters
+
+* Edge detection
+* Blurring
