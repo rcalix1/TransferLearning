@@ -13,5 +13,5 @@
 
 ## Readings
 
-* Hao Li1, Zheng Xu, Gavin Taylor, Christoph Studer, Tom Goldstein. 2018. Visualizing the Loss Landscape of Neural Nets. (https://arxiv.org/pdf/1712.09913.pdf)
+* Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer, Tom Goldstein. 2018. Visualizing the Loss Landscape of Neural Nets. (https://arxiv.org/pdf/1712.09913.pdf)
 * paper 
