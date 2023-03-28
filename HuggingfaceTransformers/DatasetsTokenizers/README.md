@@ -1,2 +1,2 @@
-## examples of the datasets module and tokenizers
+## Examples of the datasets module and tokenizers
 
