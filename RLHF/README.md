@@ -8,3 +8,4 @@
 * https://arxiv.org/pdf/1909.08593.pdf
 * https://github.com/openai/lm-human-preferences
 * https://github.com/openai/summarize-from-feedback
+* https://arxiv.org/abs/2307.09288
