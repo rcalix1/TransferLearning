@@ -4,5 +4,5 @@
 * agents
 * chain of thought
 * alphafold
-* dpo
+* RLHF and DPO
 * 
