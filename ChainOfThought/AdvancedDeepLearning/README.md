@@ -9,4 +9,7 @@
 ## RAG and LangChain
 
 * https://github.com/bRAGAI/bRAG-langchain
-* 
+
+## LLMs FROM scratch
+
+* https://www.youtube.com/watch?v=9vM4p9NN0Ts
