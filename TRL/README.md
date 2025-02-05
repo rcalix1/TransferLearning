@@ -1,4 +1,9 @@
-## TRL 
+# TRL 
+
+* using the older version of TRL
+* 
+
+## Notebooks
 
 * SFT
 * RLHF - sentiment
