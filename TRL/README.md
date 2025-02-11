@@ -1,6 +1,9 @@
 # TRL 
 
 * using the older version of TRL
+* python 3.8 or 3.9
+* use older version of TRL
+* pip install trl==0.11.3
 * 
 
 ## Notebooks
