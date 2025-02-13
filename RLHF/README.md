@@ -2,6 +2,12 @@
 
 * Fine tune a GPT with RLHF
 
+## Q Learning
+
+* https://rcalix1.github.io/DeepLearningAlgorithms/SecondEdition/chapter9_RL/index.html
+* https://github.com/rcalix1/DeepLearningAlgorithms/tree/main/SecondEdition/chapter9_RL
+* 
+
 ## PPO
 
 * PPO Paper -> Fine-Tuning Language Models from Human Preferences” by D. Ziegler et al.
