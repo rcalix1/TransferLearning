@@ -19,3 +19,5 @@
 * 1000 classes
 
 * alexnet = models.AlexNet()
+
+![feedBack](feedBackNets.jpeg)
