@@ -20,4 +20,4 @@
 
 * alexnet = models.AlexNet()
 
-![feedBack](feedBackNets.jpeg)
+![feedBack](AlexNet.jpeg)
