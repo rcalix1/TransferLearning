@@ -11,3 +11,8 @@
 
 * import wandb
 * wandb.init(mode="disabled")
+
+## Other
+
+* !python --version
+* 
