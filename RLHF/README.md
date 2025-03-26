@@ -16,4 +16,5 @@
 * https://github.com/openai/summarize-from-feedback
 * https://arxiv.org/abs/2307.09288
 * https://medium.com/analytics-vidhya/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8
-* 
+* https://pytorch.org/tutorials/intermediate/reinforcement_ppo.html
+* https://github.com/nikhilbarhate99/PPO-PyTorch
