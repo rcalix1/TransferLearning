@@ -15,3 +15,5 @@
 * https://github.com/openai/lm-human-preferences
 * https://github.com/openai/summarize-from-feedback
 * https://arxiv.org/abs/2307.09288
+* https://medium.com/analytics-vidhya/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8
+* 
