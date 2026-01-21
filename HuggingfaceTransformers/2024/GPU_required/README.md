@@ -7,7 +7,7 @@
 
 ## code fix
 
-'''
+```
 
 
 training_args = TrainingArguments(
@@ -20,4 +20,4 @@ training_args = TrainingArguments(
     logging_dir="./logs"
 )
 
-'''
+```
