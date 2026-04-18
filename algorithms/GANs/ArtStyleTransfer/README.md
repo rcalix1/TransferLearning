@@ -4,6 +4,27 @@
 * TorchPainterStyleTransfer notebook (https://arxiv.org/pdf/1902.11108.pdf)
 
 
+## Scoping list counter
+
+```
+
+run = [0]
+
+def step():
+    print("inside before:", run[0])
+    run[0] += 1
+    print("inside after:", run[0])
+
+while run[0] < 9:
+    step()
+    print("outside:", run[0])
+
+```
+
+
+## Losses in network
+
+
 ```
 
 
